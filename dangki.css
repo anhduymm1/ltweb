@@ -1,0 +1,65 @@
+body{
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	font-family:monospace;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+input{
+	font-family:monospace;
+}
+#text1{
+	font-size:40px;
+	background:#C0C0C0;
+	text-align:center;
+}
+.dangnhap{
+	display:flex;
+	flex-direction:column;
+}
+.header{
+	flex:1;
+}
+.main{
+	flex:3;
+	display:flex;
+}
+.empty{
+	flex:1;
+}
+.main-img{
+	flex:1;
+}
+.main-div{
+	flex:1.5;
+	
+	
+}
+.trove{
+	display:flex;
+	justify-content:space-between;
+	margin-top:105px;
+
+}
+.main-form{
+	box-shadow: 0 6px 12px rgb(0 0 0 / 18%);
+}
+.main-img{
+	
+}
+.form-dangnhap{
+	display:flex;
+	flex-direction:column;
+	padding:30px 30px;
+	margin-bottom:107px;
+}
+.footer{
+	text-align:center;
+	background:#F8F8FF;
+	flex:1;
+	line-height:50px;
+}
